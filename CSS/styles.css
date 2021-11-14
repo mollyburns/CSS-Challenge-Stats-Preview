@@ -1,0 +1,98 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "Tahoma", sans-serif;
+  font-size: 11px;
+  text-align: center;
+}
+
+a {
+  color: hsl(228, 45%, 44%);
+}
+
+img {
+  border-radius: 0 15px 15px 0;
+  opacity: .65;
+  width: 100%;
+}
+
+h1 {
+  margin: 70px auto 40px;
+  text-align: left;
+  width: 60%
+}
+
+h4 {
+  font-size: 1.5rem;
+  margin-top: 15px;
+  margin-bottom: 0;
+  text-align: left;
+}
+
+h6 {
+  color: #cbc9c9;
+  font-size: .7rem;
+  font-weight: normal;
+  margin-bottom: 15px;
+  margin-top: 0;
+  text-transform: uppercase;
+}
+
+table {
+  margin: auto;
+}
+
+td {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+span {
+  color: #674ea7;
+}
+
+p {
+  color: #cbc9c9;
+  line-height: 1.8;
+  margin: 30px auto;
+  text-align: left;
+  width: 60%;
+}
+
+.copy {
+  background-color: #23154f;
+  border-radius: 15px 0 0 15px;
+  display: inline-block;
+  height: 371.656px;
+  position: absolute;
+  left: 192px;
+  top: 100px;
+  width: 450px;
+}
+
+.img {
+  background-color: #7813c8;
+  border-radius: 0 15px 15px 0;
+  display: inline-block;
+  height: 371.656px;
+  position: absolute;
+  left: 642px;
+  top: 100px;
+  width: 450px;
+}
+
+.table {
+  text-align: left;
+  width: 50%;
+}
+
+.attribution {
+position: absolute;
+top: 600px;
+left: 500px;
+}
+
+.attribution a {
+  color: white;
+  text-decoration: none;
+}
